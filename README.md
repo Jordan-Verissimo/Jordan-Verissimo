@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Jordan Verissimo Guimarães dos Santos
-🔭 I'm working as a Trainee at Nexum IOT<br>🌱 I’m currently learning Systems Analysis and Development<br>⚡ I love Cats
+🔭 I'm working as an Intern at Nexum IOT<br>🌱 I’m currently learning Systems Analysis and Development<br>⚡ I love Cats
 
 
 ## 🌐 Socials:
